@@ -16,7 +16,7 @@ ipykernel = "^5.3.3"
 mypy = "^0.910"
 pytest = "^6.2.4"
 pre-commit = "^2.13.0"
-flake8 = "^3.9.2"
+flake8 = "^5.0.0"
 notebook = "^6.4.4"
 
 [build-system]
