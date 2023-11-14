@@ -12,7 +12,7 @@ aleph-alpha-client = "^1.7.1"
 
 [tool.poetry.dev-dependencies]
 black = "^22.3.0"
-ipykernel = "^5.3.3"
+ipykernel = "^6.0.0"
 mypy = "^0.910"
 pytest = "^6.2.4"
 pre-commit = "^2.13.0"
