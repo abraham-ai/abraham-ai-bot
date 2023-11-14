@@ -1,5 +1,5 @@
 aleph-alpha-client==1.7.1
-certifi==2022.6.15; python_version >= "3.7" and python_version < "4"
+certifi==2023.7.22; python_version >= "3.7" and python_version < "4"
 charset-normalizer==2.1.0; python_version >= "3.7" and python_version < "4" and python_full_version >= "3.6.0"
 idna==3.3; python_version >= "3.7" and python_version < "4"
 pywin32==228; sys_platform == "win32"
